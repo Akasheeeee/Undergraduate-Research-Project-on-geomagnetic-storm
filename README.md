@@ -1,1 +1,4 @@
-# Undergraduate-Research-Project-on-geomagnetic-storm
+# Analysis of Interplanetary Conditions and Geomagnetic Variability
+
+
+
